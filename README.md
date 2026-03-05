@@ -189,7 +189,7 @@ Optional Tools
 Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/employee-attrition-prediction.git
+git clone [https://github.com/yourusername/employee-attrition-prediction.git](https://github.com/KishoreAIML/Employee-Attrition-Prediction.git)
 ```
 
 Navigate to the project folder
